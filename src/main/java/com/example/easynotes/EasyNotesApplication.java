@@ -10,6 +10,7 @@ public class EasyNotesApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EasyNotesApplication.class, args);
+
 	}
 
 }
